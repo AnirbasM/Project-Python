@@ -1,0 +1,15 @@
+Keras==2.2.4
+numpy==1.16.2
+Pillow==6.0.0
+scikit-image==0.15.0
+scikit-learn==0.20.3
+scipy==1.2.1
+seaborn==0.9.0
+-e git+https://github.com/SpaceNetChallenge/utilities.git@640df3c60e6238de92f303e77f1c6b47c9cc5c05#egg=spacenetutilities
+statsmodels==0.9.0
+tensorflow==1.13.1
+tornado==6.0.2
+tqdm==4.31.1
+rasterio
+protobuf
+fiona==1.8.6
